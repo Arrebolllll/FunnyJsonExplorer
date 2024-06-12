@@ -1,0 +1,3 @@
+/home/kelv1n/Downloads/my/build/CMakeFiles/fje.dir
+/home/kelv1n/Downloads/my/build/CMakeFiles/edit_cache.dir
+/home/kelv1n/Downloads/my/build/CMakeFiles/rebuild_cache.dir
