@@ -1,0 +1,50 @@
+[
+{
+  "directory": "F:/Software_Engineering/hw/fje/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IF:/Software_Engineering/hw/fje/include -g -std=gnu++17 -o CMakeFiles\\fje.dir\\src\\main.cpp.obj -c F:\\Software_Engineering\\hw\\fje\\src\\main.cpp",
+  "file": "F:\\Software_Engineering\\hw\\fje\\src\\main.cpp",
+  "output": "CMakeFiles\\fje.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "F:/Software_Engineering/hw/fje/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IF:/Software_Engineering/hw/fje/include -g -std=gnu++17 -o CMakeFiles\\fje.dir\\src\\FunnyJsonExplorer.cpp.obj -c F:\\Software_Engineering\\hw\\fje\\src\\FunnyJsonExplorer.cpp",
+  "file": "F:\\Software_Engineering\\hw\\fje\\src\\FunnyJsonExplorer.cpp",
+  "output": "CMakeFiles\\fje.dir\\src\\FunnyJsonExplorer.cpp.obj"
+},
+{
+  "directory": "F:/Software_Engineering/hw/fje/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IF:/Software_Engineering/hw/fje/include -g -std=gnu++17 -o CMakeFiles\\fje.dir\\src\\Component.cpp.obj -c F:\\Software_Engineering\\hw\\fje\\src\\Component.cpp",
+  "file": "F:\\Software_Engineering\\hw\\fje\\src\\Component.cpp",
+  "output": "CMakeFiles\\fje.dir\\src\\Component.cpp.obj"
+},
+{
+  "directory": "F:/Software_Engineering/hw/fje/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IF:/Software_Engineering/hw/fje/include -g -std=gnu++17 -o CMakeFiles\\fje.dir\\src\\Composite.cpp.obj -c F:\\Software_Engineering\\hw\\fje\\src\\Composite.cpp",
+  "file": "F:\\Software_Engineering\\hw\\fje\\src\\Composite.cpp",
+  "output": "CMakeFiles\\fje.dir\\src\\Composite.cpp.obj"
+},
+{
+  "directory": "F:/Software_Engineering/hw/fje/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IF:/Software_Engineering/hw/fje/include -g -std=gnu++17 -o CMakeFiles\\fje.dir\\src\\Leaf.cpp.obj -c F:\\Software_Engineering\\hw\\fje\\src\\Leaf.cpp",
+  "file": "F:\\Software_Engineering\\hw\\fje\\src\\Leaf.cpp",
+  "output": "CMakeFiles\\fje.dir\\src\\Leaf.cpp.obj"
+},
+{
+  "directory": "F:/Software_Engineering/hw/fje/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IF:/Software_Engineering/hw/fje/include -g -std=gnu++17 -o CMakeFiles\\fje.dir\\src\\View.cpp.obj -c F:\\Software_Engineering\\hw\\fje\\src\\View.cpp",
+  "file": "F:\\Software_Engineering\\hw\\fje\\src\\View.cpp",
+  "output": "CMakeFiles\\fje.dir\\src\\View.cpp.obj"
+},
+{
+  "directory": "F:/Software_Engineering/hw/fje/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IF:/Software_Engineering/hw/fje/include -g -std=gnu++17 -o CMakeFiles\\fje.dir\\src\\RectangleView.cpp.obj -c F:\\Software_Engineering\\hw\\fje\\src\\RectangleView.cpp",
+  "file": "F:\\Software_Engineering\\hw\\fje\\src\\RectangleView.cpp",
+  "output": "CMakeFiles\\fje.dir\\src\\RectangleView.cpp.obj"
+},
+{
+  "directory": "F:/Software_Engineering/hw/fje/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IF:/Software_Engineering/hw/fje/include -g -std=gnu++17 -o CMakeFiles\\fje.dir\\src\\TreeView.cpp.obj -c F:\\Software_Engineering\\hw\\fje\\src\\TreeView.cpp",
+  "file": "F:\\Software_Engineering\\hw\\fje\\src\\TreeView.cpp",
+  "output": "CMakeFiles\\fje.dir\\src\\TreeView.cpp.obj"
+}
+]
