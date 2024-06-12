@@ -1,7 +1,8 @@
-#include "FunnyJsonExplorer.hpp"
 #include <iostream>
+#include "FunnyJsonExplorer.hpp"
 
-void usage(bool error = true) {
+void
+usage(bool error = true) {
     std::cerr << "Usage: fje -f <json file> -s <style> [-i <middle icon>] [-l "
                  "<leaf icon>]\n";
     std::cerr << "  -f <json file>    : specify JSON file\n";
@@ -15,12 +16,13 @@ void usage(bool error = true) {
     }
 }
 
-int main(int argc, char *argv[]) {
+int
+main(int argc, char* argv[]) {
     std::string cmd;
     std::string file_name;
     std::string style = "tree";
     std::string middle_icon = "♡", leaf_icon = "❥";
-    bool valid = false; // 必要的参数是否给齐全
+    bool valid = false;  // 必要的参数是否给齐全
 
     for (int i = 1; i < argc; ++i) {
         std::string cmd = argv[i];
@@ -88,7 +90,7 @@ int main(int argc, char *argv[]) {
         explorer->setView(std::move(view));
         explorer->load(file_name);
         explorer->show();
-    } catch (std::exception &e) {
+    } catch (std::exception& e) {
         std::cerr << e.what() << std::endl;
     }
 

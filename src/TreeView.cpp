@@ -1,11 +1,13 @@
 #include "TreeView.hpp"
 
-void TreeView::show(Component *root) {
+void
+TreeView::show(Component* root) {
     stack.clear();
     Visualize(root);
 }
 
-void TreeView::Visualize(Component *it) {
+void
+TreeView::Visualize(Component* it) {
     for (bool b : stack) {
         std::cout << (b ? "│  " : "   ");
     }
